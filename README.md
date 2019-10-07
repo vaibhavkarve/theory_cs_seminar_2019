@@ -1,1 +1,1 @@
-# awm_colloquium_2019
+# theory_cs_seminar_2019
